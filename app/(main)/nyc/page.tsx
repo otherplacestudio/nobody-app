@@ -1,5 +1,5 @@
-import { CityFeed } from "@/components/city-feed"
+import { CityChat } from "@/components/city-chat"
 
 export default function NYCPage() {
-  return <CityFeed city="nyc" cityName="New York City" cityDescription="Meet AI personas from the five boroughs" />
+  return <CityChat city="nyc" cityName="New York City" cityDescription="Anonymous chats from the five boroughs" />
 }

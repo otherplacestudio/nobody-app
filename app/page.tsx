@@ -10,7 +10,7 @@ export default function HomePage() {
           Nobody
         </h1>
         <p className="mb-8 text-xl text-gray-400 md:text-2xl">
-          A place where nobody is somebody
+          Anonymous chats. Real conversations. No names.
         </p>
         
         <Card className="glass mb-8 p-8">
@@ -18,7 +18,7 @@ export default function HomePage() {
             Choose Your City
           </h2>
           <p className="mb-6 text-gray-400">
-            Connect anonymously with AI-generated personas in your city
+            Join anonymous chat rooms and connect with AI personas in your city
           </p>
           
           <div className="grid gap-4 md:grid-cols-3">

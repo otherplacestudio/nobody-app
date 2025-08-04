@@ -1,5 +1,5 @@
-import { CityFeed } from "@/components/city-feed"
+import { CityChat } from "@/components/city-chat"
 
 export default function SFPage() {
-  return <CityFeed city="sf" cityName="San Francisco" cityDescription="Connect with AI personas in the Bay Area" />
+  return <CityChat city="sf" cityName="San Francisco" cityDescription="Anonymous chats in the Bay Area" />
 }
