@@ -4,13 +4,6 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "regions": ["sfo1"],
-  "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "@supabase_url",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase_anon_key",
-    "SUPABASE_SERVICE_KEY": "@supabase_service_key",
-    "OPENAI_API_KEY": "@openai_api_key",
-    "NEXT_PUBLIC_APP_URL": "@app_url"
-  },
   "headers": [
     {
       "source": "/(.*)",
